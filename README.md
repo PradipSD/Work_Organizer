@@ -64,3 +64,28 @@ This PHP-based application is a simple Notes Management System that allows users
 
 - **Edit Modal:**
   - The modal allows users to edit existing notes. It contains fields for modifying the title and description of the selected note.
+    
+# Releases
+
+🚀 **No releases published yet.**
+
+## How to Contribute
+
+If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
+
+## Changelog
+
+- **Version 1.0.0 (Initial Release)**
+  - Basic functionality for adding, editing, and deleting notes.
+  - Responsive design for various devices.
+  - Bootstrap styling for a clean user interface.
+  - Data table integration using DataTables jQuery plugin.
+  - Notifications for successful note operations.
+
+## Future Plans
+
+- Implement additional features based on user feedback.
+- Enhance security measures, including user authentication.
+- Improve overall user experience and accessibility.
+
+Your feedback and contributions are essential for the improvement of this project!
